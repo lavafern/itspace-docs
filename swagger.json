@@ -10,7 +10,7 @@
   },
   "servers": [
     {
-      "url": "https://it-space-backend.vercel.app//api/v1"
+      "url": "https://it-space-backend.vercel.app/api/v1"
     }
   ],
   "tags": [
